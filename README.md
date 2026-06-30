@@ -1,2 +1,42 @@
-# 06b2766d-debt-management-credit-clien
-Stop juggling spreadsheets and insecure email threads. Your clients need a secure, branded portal to track their debt repayment progress and credit improvement—and your WordPress site is the perfect foundation.  This plugin transforms your WordPress site into a fully functional client portal specifically for debt management and credit repair. No mo
+# Debt Management & Credit Client Portal WordPress Plugin
+
+> Plugin for Debt Management
+
+Stop juggling spreadsheets and insecure email threads. Your clients need a secure, branded portal to track their debt repayment progress and credit improvement—and your WordPress site is the perfect foundation.
+
+This plugin transforms your WordPress site into a fully functional client portal specifically for debt management and credit repair.
+
+## Features
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Core functionality | ✅ | ✅ |
+| Basic settings | ✅ | ✅ |
+| Standard widgets | ✅ | ✅ |
+| Advanced features | ❌ | ✅ |
+| Priority support | ❌ | ✅ |
+| Custom post types | ❌ | ✅ |
+| API access | ❌ | ✅ |
+| White-label option | ❌ | ✅ |
+| Multisite support | ❌ | ✅ |
+
+## Get the Full Version
+
+Upgrade to the Pro version for **$29.99** and unlock all premium features.
+
+**[Buy Now (Stripe)](https://buy.stripe.com/3cI9ATbHh0bWaNObzScZn2D)** — Secure checkout
+
+## Installation
+
+1. Download the latest release from the [Releases page](../../releases)
+2. Extract and follow the setup instructions in the included documentation
+3. For Pro features, enter your license key after purchase
+
+## Support
+
+- Open an [issue](../../issues) for bug reports
+
+## License
+
+Free tier: MIT License for personal and commercial use.
+Pro tier: Commercial license included with purchase.
